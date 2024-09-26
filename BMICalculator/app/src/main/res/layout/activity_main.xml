@@ -30,5 +30,12 @@
             android:text="Height"
             style="@android:style/TextAppearance.Material.Body1"/>
 
+        <NumberPicker
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/heightPicker"
+            android:layout_marginHorizontal="5dp"/>
+
+
     </LinearLayout>
 </LinearLayout>
